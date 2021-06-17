@@ -66,3 +66,63 @@ a.active {
     text-decoration: underline;
     color: red;
 }
+
+
+/* footer css code */
+
+.footer {
+  background-color: #292c2f;
+  box-sizing:border-box;
+  width: 100%;
+  text-align: left;
+  font: normal 15px sans-serif;
+  padding: 25pxpx 32px;
+  position: absolute;
+  bottom: 0;
+}
+
+.footer-left p {
+  color: #8f9296;
+  font-size: 14px;
+  margin-left: 10px;
+  padding-left: 10px;
+}
+/* Footer links */
+
+p.footer-links {
+  font-size: 18px;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+.footer p.footer-links a {
+  display: inline-block;
+  line-height: 2;
+  text-decoration: none;
+  color: #ffffff;
+}
+
+
+.footer .footer-right {
+  float: right;
+  margin-top: 20px;
+  max-width: 300px;
+  margin-right: 30px;
+}
+
+.footer .footer-right a {
+  display: inline-block;
+  width: 45px;
+  height: 45px;
+  background-color: #33383b;
+  border-radius: 2px;
+  font-size: 20px;
+  color: #ffffff;
+  text-align: center;
+  line-height: 35px;
+  margin-left: 3px;
+}
+
+.footer-links a{
+    padding-left: 10px;
+}
