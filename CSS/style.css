@@ -71,7 +71,7 @@ a.active {
 /* footer css code */
 
 .footer {
-  background-color: #292c2f;
+  
   box-sizing:border-box;
   width: 100%;
   text-align: left;
@@ -82,7 +82,7 @@ a.active {
 }
 
 .footer-left p {
-  color: #8f9296;
+
   font-size: 14px;
   margin-left: 10px;
   padding-left: 10px;
@@ -114,7 +114,7 @@ p.footer-links {
   display: inline-block;
   width: 45px;
   height: 45px;
-  background-color: #33383b;
+  
   border-radius: 2px;
   font-size: 20px;
   color: #ffffff;
